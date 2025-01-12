@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>who is akemi?</title>
+    
+</head>
+    <link rel="stylesheet" href="css/akemweb.css">
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>akemiintolerant</h1>
+        </div>
+        <div class="content">
+            <div class="content-left">
+            </div>
+            <div class="content-right">
+                <h2>who is akemi?</h2>
+                <p> im akemi. currently 14, birthday 02/23. i love drawing and music, and i also like video games. </p>
+                
+                <h2>what is akemweb?</h2>
+                <p> akemweb is a website that i made for fun. it's a place where i can share my other website urls. </p>
+
+                <h2>sites</h2>
+
+                <ul>
+                    <li><a href="https://www.tumblr.com/paperchase1999">tumblr.com</a></li>
+                    <li><a href="https://www.youtube.com/@chronicshitposter">youtube.com</a></li>
+                    <li><a href="https://www.tiktok.com/@akemiintolerant">tiktok.com</a></li>
+                    <li><a href="https://x.com/chronshitposter">x.com</a></li>
+</html>
